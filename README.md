@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/license-CC4.0-blue.svg)](./LICENSE.md) ![Update](https://img.shields.io/badge/update-weekly-green.svg)
+
 # LWN.net-_translation_zh-tw
 LWN.net Weekly Edition 繁體中文翻譯
 ontributed by < `RanceJen` >
