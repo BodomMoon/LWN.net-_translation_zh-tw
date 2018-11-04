@@ -1,5 +1,7 @@
 [![License](https://img.shields.io/badge/license-CC4.0-blue.svg)](./LICENSE.md) ![Update](https://img.shields.io/badge/update-weekly-green.svg)
 
+**每週至少更新一篇**
+
 # LWN.net-_translation_zh-tw
 LWN.net Weekly Edition 繁體中文翻譯
 ontributed by < `RanceJen` >
@@ -11,4 +13,4 @@ ontributed by < `RanceJen` >
   * 譯名：當 CPU 沒事可做時它會做什麼？
   * New!
   
-**翻譯好難但我會把他做完的 (ゝ∀･)b**
+
